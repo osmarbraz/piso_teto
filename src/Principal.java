@@ -7,7 +7,7 @@
  *
  * Cálculo de Piso e Teto
  * 
- * Página 40 Cormen 3 ed
+ * Página 40 Thomas H. Cormen 3 ed
  *
  */
 
@@ -20,7 +20,7 @@ public class Principal {
      * O teto (ceiling) de um número real x é o resultado do arredondamento de x
      * para cima.
      *
-     * Página 40 Cormen 3 ed
+     * Página 40 Thomas H. Cormen 3 ed
      *
      * teto(a/b) <= (a+(b-1))/b
      *
@@ -42,7 +42,7 @@ public class Principal {
      * O teto (ceiling) de um número real x é o resultado do arredondamento de x
      * para cima.
      *
-     * Página 40 Cormen 3 ed
+     * Página 40 Thomas H. Cormen 3 ed
      *
      * Em outras palavras, o teto de x é o único número inteiro j tal que
      * j−1<x<=j Ex. O teto de 2.5 é 3
@@ -65,7 +65,7 @@ public class Principal {
      * O piso (= floor) de um número real x é o resultado do arredondamento de x
      * para baixo.
      *
-     * Página 40 Cormen 3 ed
+     * Página 40 Thomas H. Cormen 3 ed
      *
      * piao(a/b) <= (a-(b-1))/b
      *
@@ -87,7 +87,7 @@ public class Principal {
      * O piso (= floor) de um número real x é o resultado do arredondamento de x
      * para baixo.
      *
-     * Página 40 Cormen 3 ed
+     * Página 40 Thomas H. Cormen 3 ed
      *
      * Em outras palavras, o piso de x é o único número inteiro i tal que
      * i<=x<i+1. Ex. O piso de 2.5 é 2
